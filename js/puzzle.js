@@ -31,7 +31,7 @@ window.onload = function () {
 
     for (let i = 0; i < pieces.length; i++) {
         let tile = document.createElement("img");
-        tile.src = "/src/puzzle/" + pieces[i] + ".png";
+        tile.src = "src/puzzle/" + pieces[i] + ".png";
         tile.classList.add("tile");
         tile.id = pieces[i];
 
