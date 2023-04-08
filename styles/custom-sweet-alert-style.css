@@ -1,0 +1,19 @@
+.swal2-title {
+    font-family: sans-serif;
+}
+
+.swal2-html-container {
+    font-family: sans-serif;
+}
+* {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    touch-action: pan-x, pan-y;
+}
+
+html, body {
+    overflow: hidden;
+}
